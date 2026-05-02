@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Mahin Sarker!
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=MAHINSARKER&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
 ### 🚀 About Me
 I am a passionate Developer focused on building functional and efficient systems. I enjoy working on desktop applications and management software that solve real-world problems. Currently, I am refining my skills in C# and C++ through various management system projects.
 
