@@ -3,13 +3,6 @@
 ### 🚀 About Me
 I am a passionate Developer focused on building functional and efficient systems. I enjoy working on desktop applications and management software that solve real-world problems. Currently, I am refining my skills in C# and C++ through various management system projects.
 
-- 🔭 I’m currently working on **Management Information Systems**.
-- 🌱 I’m currently learning **Advanced C# and Database Management**.
-- 👯 I’m looking to collaborate on **Open Source C# Projects**.
-- 💬 Ask me about **C#, C++, or System Design**.
-
----
-
 ### 🛠 Tools & Technologies
 Using the tips from the guide, here are the technologies I rely on for my development:
 
