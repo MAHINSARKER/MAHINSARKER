@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Mahin Sarker!
-
+![](https://komarev.com)
 ### 🚀 About Me
 I am a passionate Developer focused on building functional and efficient systems. I enjoy working on desktop applications and management software that solve real-world problems. Currently, I am refining my skills in C# and C++ through various management system projects.
 
 ### 🛠 Tools & Technologies
 Using the tips from the guide, here are the technologies I rely on for my development:
-![](https://komarev.com)
 
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
