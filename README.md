@@ -5,6 +5,7 @@ I am a passionate Developer focused on building functional and efficient systems
 
 ### 🛠 Tools & Technologies
 Using the tips from the guide, here are the technologies I rely on for my development:
+![Visitors](https://visitorbadge.io)
 
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
