@@ -1,13 +1,9 @@
 # 👋 Hi, I'm Mahin Sarker!
-
-![Profile Views](https://komarev.com/ghpvc/?username=MAHINSARKER&color=blueviolet&style=flat-square)
-
+![](https://komarev.com)
 ### 🚀 About Me
-
 I am a passionate Developer focused on building functional and efficient systems. I enjoy working on desktop applications and management software that solve real-world problems. Currently, I am refining my skills in C# and C++ through various management system projects.
 
 ### 🛠 Tools & Technologies
-
 Using the tips from the guide, here are the technologies I rely on for my development:
 
 <p align="left">
@@ -23,7 +19,6 @@ Using the tips from the guide, here are the technologies I rely on for my develo
 ---
 
 ### 📊 GitHub Activity
-
 To give you an overview of my contributions and coding consistency:
 
 <p align="center">
@@ -37,25 +32,19 @@ To give you an overview of my contributions and coding consistency:
 ---
 
 ### 🌟 Featured Projects
-
 These are some of the management systems I've developed:
 
-- **[Housing Society Management System](https://github.com/MAHINSARKER/Housing-Society-Management-System--C-Sharp-Project)**: A comprehensive C# desktop application for managing residential logistics.
-
-- **[Food Court Management System](https://github.com/MAHINSARKER/Food-Court-Management-System--a-C-Creation)**: An automated solution for handling orders and inventory in a food court environment.
-
-- **[Leftover Food Management System](https://github.com/MAHINSARKER/Project-Leftover-Food-Management-System-Group-06)**: A collaborative project focused on Git workflow and social impact.
+* **[Housing Society Management System](https://github.com/MAHINSARKER/Housing-Society-Management-System--C-Sharp-Project)**: A comprehensive C# desktop application for managing residential logistics.
+* **[Food Court Management System](https://github.com/MAHINSARKER/Food-Court-Management-System--a-C-Creation)**: An automated solution for handling orders and inventory in a food court environment.
+* **[Leftover Food Management System](https://github.com/MAHINSARKER/Project-Leftover-Food-Management-System-Group-06)**: A collaborative project focused on Git workflow and social impact.
 
 ---
 
 ### 📫 Connect with Me
-
 <p align="left">
-  <a href="https://github.com/MAHINSARKER" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MAHINSARKER" height="30" width="40" />
-  </a>
+<a href="https://github.com/MAHINSARKER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MAHINSARKER" height="30" width="40" /></a>
 </p>
 
 <p align="left">
   If you appreciate my work, feel free to 🌟 my repositories!
-</p>
+</p>\
